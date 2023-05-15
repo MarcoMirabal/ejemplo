@@ -1,0 +1,54 @@
+    .flex{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+
+    }
+    menu{
+        display: flex;
+        justify-content: space-around;
+        background-color: lightblue;
+        border: solid olive 3px;
+        border-radius: 10px;
+    }
+    menu h2{
+        color: chocolate;
+    }
+    menu h2:hover{
+
+        color: rgb(207, 255, 111);
+        font-size: 25px;
+    }
+    section{
+        font-size: 70px;
+        justify-content: center;
+        display: flex;
+        background-color: bisque;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border-radius: 25%;
+        border: solid cadetblue 50px;
+    }
+    section img{
+        width: 300px;
+        height: 300px;
+        justify-content: center;
+        
+
+    }
+    body{
+        background-image: url("../img/milanesafondo.jpg");
+        background-image: center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    section h1{
+        color: darkseagreen;
+
+    }
+    footer{
+        justify-content: center;
+        font-size: medium;
+        color: brown;
+    }
