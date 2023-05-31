@@ -7,15 +7,12 @@ if (numero1 < numero2) {
     console.log("numero1 no es mayor que numero2");
 
 }
-else {
-    console.log("a");
-}
 
 if (numero2 > 0) {
     console.log("numero2 es positivo");
 
 }
-if (numero1 < 0) {
+if (numero1 < 0 || numero1 != 0) {
     console.log("numero1 es negativo o distinto de cero");
 }
 
