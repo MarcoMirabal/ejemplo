@@ -6,9 +6,13 @@ var division = 23;
 
 if (DNI > 0 && DNI < 99999999) {
     var letra = DNI % division;
-    console.log("La letra correspondiente es"+ letra);
+    console.log("La letra correspondiente es" + letra);
 
 }
 else {
     console.log("se ha detectado un error al verificar su DNI. Verifique correctamente");
+
+
+
+
 }
