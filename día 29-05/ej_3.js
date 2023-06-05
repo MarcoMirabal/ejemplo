@@ -17,7 +17,7 @@ if (numero1 < 0 || numero1 != 0) {
 }
 
 if (numero1 + 1 < numero2) {
-    console.log("incrementar en 1 unidad el valor de numero 1 no lo hcae mayor o igual que numero2");
+    console.log("incrementar en 1 unidad el valor de numero 1 no lo hace mayor o igual que numero2");
 
     //alt + z me ordena el código jasjjasjajs (nada que ver, pero bueno)//
 }
