@@ -1,4 +1,4 @@
-function Ejercicio3 (){
+function Ejercicio3(){
 var numero1 = 5;
 var numero2 = 8;
 
